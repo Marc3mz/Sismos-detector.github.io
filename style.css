@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@500&display=swap');
 h1 {
     color:rgb(41, 53, 224);
 } 
@@ -5,5 +6,7 @@ p{
     color:rgb(32, 32, 32);
 }    
 body {
+    align-items: center;
+    justify-content: center;
     background-color: rgb(23, 174, 224);
 }
