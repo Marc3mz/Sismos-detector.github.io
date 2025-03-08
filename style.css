@@ -2,14 +2,14 @@
 
 body {
     font-family: Arial, sans-serif;
-    margin: 10;
+    margin: 30;
     padding: 10;
     background-color: #f0f0f0;
 }
 
 .contenedor {
-    max-width: 500px;
-    margin: auto;
+    max-width: 300px;
+    margin: 30px;
     padding: 10px;
     background-color: white;
     box-shadow: 0 0 10px rgba(0,0,0,0.1);
